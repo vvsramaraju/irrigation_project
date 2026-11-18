@@ -1,0 +1,7 @@
+indicator,method,rising,declining,tested
+groundwater_share,raw,231,83,486
+groundwater_share,tfpw,240,88,486
+groundwater_share,tfpw+fdr,233,86,486
+irrigation_intensity,raw,365,45,560
+irrigation_intensity,tfpw,377,56,560
+irrigation_intensity,tfpw+fdr,367,56,560

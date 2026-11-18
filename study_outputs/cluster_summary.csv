@@ -1,0 +1,9 @@
+cluster,irrigation_intensity,cropping_intensity,groundwater_share,canal_share,tank_share,fallow_share,forest_share,sown_share,crop_entropy,groundwater_share_slope,irrigation_intensity_slope,n_districts,top_states
+0,0.739,1.729,0.693,0.159,0.031,0.042,0.201,0.527,1.169,0.003,0.2,75,"Madhya Pradesh, Rajasthan, Gujarat"
+1,0.274,1.343,0.277,0.373,0.057,0.066,0.352,0.319,1.452,0.059,0.032,114,"Assam, Kerala, Karnataka"
+2,1.0,1.886,0.721,0.279,0.0,0.013,0.053,0.821,0.579,0.029,0.022,18,Punjab
+3,0.362,1.354,0.693,0.298,0.008,0.138,0.03,0.556,1.529,0.054,0.063,10,Rajasthan
+4,0.751,1.683,0.743,0.206,0.014,0.07,0.05,0.655,0.947,0.028,0.043,181,"Uttar Pradesh, Bihar, Haryana"
+5,0.329,1.344,0.647,0.27,0.042,0.106,0.145,0.546,1.464,0.018,0.059,118,"Maharashtra, Gujarat, Telangana"
+6,0.382,1.297,0.379,0.08,0.361,0.277,0.239,0.223,0.881,-0.04,0.044,41,"Jharkhand, Tamil Nadu, Andhra Pradesh"
+7,0.291,1.351,0.169,0.293,0.012,0.094,0.25,0.362,0.721,0.028,0.017,170,"Odisha, Chhattisgarh, Arunachal Pradesh"
